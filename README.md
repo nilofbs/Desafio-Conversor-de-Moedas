@@ -1,1 +1,10 @@
-Assista aqui o [vídeo demostrativo]([https://github.com/usuario/repositorio/assets/xxxx/video.mp4](https://github.com/nilofbs/Desafio-Conversor-de-Moedas/blob/main/assets/Conversor%20de%20Moedas.mp4))
+<p align="center">
+  <a href="https://youtu.be/FjXptQSZsrU">
+    <img src="https://img.youtube.com/vi/FjXptQSZsrU/maxresdefault.jpg" alt="Conversor de Moedas - Demo" width="600">
+  </a>
+</p>
+<p align="center">
+  <a href="https://youtu.be/FjXptQSZsrU">
+    <img src="https://img.shields.io/badge/Assistir%20Vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assistir no YouTube">
+  </a>
+</p>
